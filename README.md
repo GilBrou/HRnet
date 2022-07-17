@@ -1,15 +1,46 @@
-# HR net
+# HRnet
 
-Faites passer une librairie jQuery vers React
+Projet réalisé dans le cadre de la formation developpeur front-end d'Openclassrooms.
+
+![Preview](https://raw.githubusercontent.com/GilBrou/HRnet/master/logo.png)
+
+
+
+
+
+Projet :
+
+    Faire passer une librairie jQuery vers React
+
+Objectif:
+
+    - Analyser la performance d'une application web.
+    - Déployer une application front-end.
+    - Programmer en JavaScript avec la programmation fonctionnelle.
+    - Refondre une application pour réduire la dette technique
+
+
+Environnement de travail :
+
+        L’éditeur Sublime text.
+        Le terminal GitBash.
+        La plateforme GitHub.      
+        Les devtools de Google Chrome. 
+        React et React Router.  
+   
+
+![Preview](https://raw.githubusercontent.com/GilBrou/HRnet/master/Site1.webp)
+
+![Preview](https://raw.githubusercontent.com/GilBrou/HRnet/master/Site2.webp)
 
 ## Installation
 
-Clone the repository of _Argent Bank_ front-end:
+Cloner le repo de HRnet:
 
-`git clone https://github.com/GilBrou/GilBrou-gillianBrousse_14_12062022.git`
+`git clone https://github.com/GilBrou/HRnet`
 
-1. Open a terminal window in the cloned project
-1. Run the following commands:
+1. Ouvrir un terminal dans le project cloné.
+2. Lancer les lignes de commandes suivantes :
 
 ```bash
 # Install dependencies
@@ -17,5 +48,4 @@ npm install
 
 # Start local dev server
 npm start
-```# HRnet
-# HRnet
+```
